@@ -1,0 +1,1 @@
+cp -Path ./dist/BannerFont.plugin.js -Destination $env:APPDATA/BetterDiscord/plugins/BannerFont.plugin.js

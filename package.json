@@ -1,0 +1,17 @@
+{
+  "name": "BetterDiscord Plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc && @powershell -Command ./dev.ps1",
+    "watch": "tsc -watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/bandagedbd__bdapi": "^1.8.3",
+    "typescript": "^5.2.2"
+  }
+}
